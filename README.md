@@ -1,4 +1,3 @@
-myfirstrepository
-=================
+public class MyClass{
 
-the first repository I create in GitHub
+}
